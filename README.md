@@ -17,7 +17,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas e estou sempre buscando
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"/> *Figma*.
 
 **APIs e Integrações:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="20"/> *API*; <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/http.svg" width="20"/> *REST API*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="20"/> *Axios*.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="20"/> *API*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="20"/> *REST API*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="20"/> *Axios*.
 
 **Versionamento:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> *Git*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> *GitHub*.
