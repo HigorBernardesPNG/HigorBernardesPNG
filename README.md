@@ -7,11 +7,28 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas e estou sempre buscando
 
 🚀 **Tecnologias e Ferramentas**
 
-**Linguagens:** *[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)]*, *[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)]*;
-**Frontend:** *[![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)]*, *[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)]*, *[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)]*, *[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)]*;
-**UI/UX & Prototipação:** *[![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)]*;
-**APIs e Integrações:** *[![API](https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg)]*, *[![REST API](https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg)]*, *Axios[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg)]*;
-**Versionamento:** *Git[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)]*, *GitHub[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)]*.
+**Linguagens:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> *JavaScript*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> *TypeScript*;
+
+**Frontend:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> *React.js*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> *HTML5*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> *CSS3*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> *Bootstrap*;
+
+**UI/UX & Prototipação:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"/> *Figma*;
+
+**APIs e Integrações:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="20"/> *API*,  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/http.svg" width="20"/> *REST API*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="20"/> *Axios*;
+
+**Versionamento:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> *Git*,  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> *GitHub*.
+
 
 📌 **Projetos e Estudos**
 
