@@ -30,7 +30,7 @@ Aqui no meu GitHub, compartilho projetos que refletem minha experiência, aprend
 🌍 **Como me encontrar?**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)<br>
-📧 E-mail: higor_apt@hotmail.com
+📧 E-mail: devhigorbernardes@gmail.com
 
 
 Seja para colaborações, networking ou troca de experiências, estou sempre aberto a novas oportunidades! 😊
