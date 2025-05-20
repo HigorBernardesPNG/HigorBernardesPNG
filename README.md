@@ -1,6 +1,6 @@
 👋 **Olá, seja bem-vindo ao meu perfil!**
 
-![image](https://ibb.co/ZpPLt2vx)
+![image](https://i.ibb.co/hJj7hYrV/Group-369.png)
 
 Sobre mim:
 
