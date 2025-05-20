@@ -1,17 +1,14 @@
-![image](https://github.com/user-attachments/assets/bdbde02c-b12a-48eb-8dc3-c6b9a14d312b)
-
 ![Higor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorBernardesPNG&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBernardesPNG&layout=compact&theme=tokyonight)
+
+Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais e agradáveis. Trabalho com JavaScript, HTML, CSS, React, API REST, TypeScript e boas práticas de UI/UX para criar experiências fluídas e modernas. Estou sempre aprendendo e buscando novas soluções para entregar código limpo, acessível e escalável.
 
 ## 🚀 Projetos em Destaque
 
 - 🌤️ [Weather Dashboard](https://weather-dashboard-kappa-hazel.vercel.app/) – Dashboard climático com React e API externa.
 - 🧾 [ToDoList API + Front](https://github.com/HigorBernardesPNG/todoList) – CRUD completo com back-end e front-end.
 - 👤 [User Dashboard](https://github.com/HigorBernardesPNG/userDashboard) – Painel com foco em UI/UX e componentes em React.
-
-
-Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais e agradáveis. Trabalho com JavaScript, HTML, CSS, React, API REST, TypeScript e boas práticas de UI/UX para criar experiências fluídas e modernas. Estou sempre aprendendo e buscando novas soluções para entregar código limpo, acessível e escalável.
 
 ⚒️ **Tecnologias e Ferramentas**
 
@@ -41,4 +38,4 @@ Aqui no meu GitHub, compartilho projetos que refletem minha experiência, aprend
 📧 E-mail: devhigorbernardes@gmail.com
 
 
-Seja para colaborações, networking ou troca de experiências, estou sempre aberto a novas oportunidades! 😊
+![image](https://github.com/user-attachments/assets/bdbde02c-b12a-48eb-8dc3-c6b9a14d312b)
