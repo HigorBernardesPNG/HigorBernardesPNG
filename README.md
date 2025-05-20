@@ -2,12 +2,14 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 
 ![Higor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorBernardesPNG&show_icons=true&theme=tokyonight)
 
+
 ## 🚀 Projetos em Destaque
 
 - 🌤️ **[Weather Dashboard](https://weather-dashboard-kappa-hazel.vercel.app/)** – `Dashboard climático com React e API externa.`
 - 🧾 **[ToDoList API + Front](https://github.com/HigorBernardesPNG/todoList)** – `CRUD completo, API REST com back-end e front-end.`
 - 👤 **[User Dashboard](https://github.com/HigorBernardesPNG/userDashboard)** – `Painel com foco em UI/UX e componentes em React.`
 - 📦 **[Códigos de Estudo em JS](https://github.com/HigorBernardesPNG/codigosEstudoJS)** – `Repositório pessoal com trechos de código, desafios e problemas reais resolvidos com JavaScript.`  
+
 
 ## ⚒️ Tecnologias e Ferramentas
 
@@ -32,6 +34,7 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 ## 📌 Projetos e Estudos
 
 Aqui no meu GitHub, compartilho projetos que representam minha jornada como desenvolvedor: aprendizados, experimentos, desafios e evolução. De interfaces simples a aplicações completas, cada repositório é uma peça do meu crescimento técnico e criativo.
+
 
 ## 🌍 Como me encontrar?
  
