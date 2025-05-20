@@ -4,10 +4,10 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 
 ## 🚀 Projetos em Destaque
 
-- 🌤️ **[Weather Dashboard](https://weather-dashboard-kappa-hazel.vercel.app/)** – Dashboard climático com React e API externa.
-- 🧾 **[ToDoList API + Front](https://github.com/HigorBernardesPNG/todoList)** – CRUD completo, API REST com back-end e front-end.
-- 👤 **[User Dashboard](https://github.com/HigorBernardesPNG/userDashboard)** – Painel com foco em UI/UX e componentes em React.
-- 📦 **[Códigos de Estudo em JS](https://github.com/HigorBernardesPNG/codigosEstudoJS)** – Repositório pessoal com trechos de código, desafios e problemas reais resolvidos com JavaScript.  
+- 🌤️ **[Weather Dashboard](https://weather-dashboard-kappa-hazel.vercel.app/)** – `Dashboard climático com React e API externa.`
+- 🧾 **[ToDoList API + Front](https://github.com/HigorBernardesPNG/todoList)** – `CRUD completo, API REST com back-end e front-end.`
+- 👤 **[User Dashboard](https://github.com/HigorBernardesPNG/userDashboard)** – `Painel com foco em UI/UX e componentes em React.`
+- 📦 **[Códigos de Estudo em JS](https://github.com/HigorBernardesPNG/codigosEstudoJS)** – `Repositório pessoal com trechos de código, desafios e problemas reais resolvidos com JavaScript.`  
 
 ⚒️ **Tecnologias e Ferramentas**
 
