@@ -1,9 +1,6 @@
-👋 **Olá, seja bem-vindo ao meu perfil!**
-
 ![image](https://github.com/user-attachments/assets/6909af64-36bd-4155-b90c-4db2f5fc2666)
 
-
-Sobre mim:
+**----** **----** **----** **----**
 
 Sou desenvolvedor front-end com experiência em JavaScript, HTML, CSS, UI/UX, React, API REST e TypeScript. Tenho um forte compromisso com boas práticas de desenvolvimento, criando interfaces modernas e eficientes que garantem uma excelente experiência para o usuário.
 Atualmente, curso Análise e Desenvolvimento de Sistemas e estou sempre buscando me atualizar por meio de cursos, projetos pessoais e estudos contínuos para aprimorar minhas habilidades e acompanhar as tendências do mercado.
