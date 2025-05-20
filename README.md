@@ -1,8 +1,6 @@
-![Higor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorBernardesPNG&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBernardesPNG&layout=compact&theme=tokyonight)
-
 Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais e agradáveis. Trabalho com JavaScript, HTML, CSS, React, API REST, TypeScript e boas práticas de UI/UX para criar experiências fluídas e modernas. Estou sempre aprendendo e buscando novas soluções para entregar código limpo, acessível e escalável.
+
+![Higor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorBernardesPNG&show_icons=true&theme=tokyonight)
 
 ## 🚀 Projetos em Destaque
 
@@ -11,6 +9,8 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 - 👤 [User Dashboard](https://github.com/HigorBernardesPNG/userDashboard) – Painel com foco em UI/UX e componentes em React.
 
 ⚒️ **Tecnologias e Ferramentas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBernardesPNG&layout=compact&theme=tokyonight)
 
 **Linguagens:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> *JavaScript*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> *TypeScript*.
