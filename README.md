@@ -1,6 +1,6 @@
 👋 **Olá, seja bem-vindo ao meu perfil!**
 
-[![Veja minha logo animada](https://hbtech-gilt.vercel.app/Img/LogoHB.png)](https://hbtech-gilt.vercel.app/Img/LogoAnimadaVideoTeste.mp4)
+![image](https://github.com/user-attachments/assets/cd5a28cf-36fb-428e-aa46-2319a6e313a8)
 
 Sobre mim:
 
