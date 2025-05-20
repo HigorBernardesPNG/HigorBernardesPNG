@@ -1,13 +1,19 @@
 ![image](https://github.com/user-attachments/assets/bdbde02c-b12a-48eb-8dc3-c6b9a14d312b)
 
+![Higor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorBernardesPNG&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBernardesPNG&layout=compact&theme=tokyonight)
+
+## 🚀 Projetos em Destaque
+
+- 🌤️ [Weather Dashboard](https://weather-dashboard-kappa-hazel.vercel.app/) – Dashboard climático com React e API externa.
+- 🧾 [ToDoList API + Front](https://github.com/HigorBernardesPNG/todoList) – CRUD completo com back-end e front-end.
+- 👤 [User Dashboard](https://github.com/HigorBernardesPNG/userDashboard) – Painel com foco em UI/UX e componentes em React.
 
 
+Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais e agradáveis. Trabalho com JavaScript, HTML, CSS, React, API REST, TypeScript e boas práticas de UI/UX para criar experiências fluídas e modernas. Estou sempre aprendendo e buscando novas soluções para entregar código limpo, acessível e escalável.
 
-
-Sou desenvolvedor front-end com experiência em JavaScript, HTML, CSS, UI/UX, React, API REST e TypeScript. Tenho um forte compromisso com boas práticas de desenvolvimento, criando interfaces modernas e eficientes que garantem uma excelente experiência para o usuário.
-Atualmente, curso Análise e Desenvolvimento de Sistemas e estou sempre buscando me atualizar por meio de cursos, projetos pessoais e estudos contínuos para aprimorar minhas habilidades e acompanhar as tendências do mercado.
-
-🚀 **Tecnologias e Ferramentas**
+⚒️ **Tecnologias e Ferramentas**
 
 **Linguagens:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> *JavaScript*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> *TypeScript*.
