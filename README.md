@@ -9,7 +9,7 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 - 👤 **[User Dashboard](https://github.com/HigorBernardesPNG/userDashboard)** – `Painel com foco em UI/UX e componentes em React.`
 - 📦 **[Códigos de Estudo em JS](https://github.com/HigorBernardesPNG/codigosEstudoJS)** – `Repositório pessoal com trechos de código, desafios e problemas reais resolvidos com JavaScript.`  
 
-⚒️ **Tecnologias e Ferramentas**
+## ⚒️ Tecnologias e Ferramentas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorBernardesPNG&layout=compact&theme=tokyonight)
 
@@ -29,14 +29,14 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em interfaces func
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> *Git*; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> *GitHub*.
 
 
-📌 **Projetos e Estudos**
+## 📌 Projetos e Estudos
 
 Aqui no meu GitHub, compartilho projetos que representam minha jornada como desenvolvedor: aprendizados, experimentos, desafios e evolução. De interfaces simples a aplicações completas, cada repositório é uma peça do meu crescimento técnico e criativo.
 
-🌍 **Como me encontrar?**
+## 🌍 Como me encontrar?
  
-🔗 LinkedIn: [Higor Bernardes](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)<br>
-📧 E-mail: devhigorbernardes@gmail.com
+**🔗 LinkedIn:** `[Higor Bernardes](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)`<br>
+**📧 E-mail:** `devhigorbernardes@gmail.com`
 
 ![image](https://github.com/user-attachments/assets/77a3ded8-60e0-4ff3-8805-3ac2a7538027)
 
