@@ -36,9 +36,6 @@ Aqui no meu GitHub, compartilho projetos que refletem minha experiência, aprend
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)<br>
 📧 E-mail: devhigorbernardes@gmail.com
-
-
-
-
-
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/bdbde02c-b12a-48eb-8dc3-c6b9a14d312b)
