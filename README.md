@@ -38,4 +38,7 @@ Aqui no meu GitHub, compartilho projetos que refletem minha experiência, aprend
 📧 E-mail: devhigorbernardes@gmail.com
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/bdbde02c-b12a-48eb-8dc3-c6b9a14d312b)
