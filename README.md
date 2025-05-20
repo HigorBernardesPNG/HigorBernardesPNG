@@ -35,7 +35,7 @@ Aqui no meu GitHub, compartilho projetos que representam minha jornada como dese
 
 🌍 **Como me encontrar?**
  
-🔗 LinkedIn: [Higor Bernardes](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)
+🔗 LinkedIn: [Higor Bernardes](https://www.linkedin.com/in/higor-bernardes-6a41b0230/)
 📧 E-mail: devhigorbernardes@gmail.com
 
 ![image](https://github.com/user-attachments/assets/77a3ded8-60e0-4ff3-8805-3ac2a7538027)
