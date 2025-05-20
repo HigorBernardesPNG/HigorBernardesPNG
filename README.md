@@ -1,5 +1,7 @@
 👋 **Olá, seja bem-vindo ao meu perfil!**
 
+[![Veja minha logo animada](https://hbtech-gilt.vercel.app/Img/LogoHB.png)](https://hbtech-gilt.vercel.app/Img/LogoAnimadaVideoTeste.mp4)
+
 Sobre mim:
 
 Sou desenvolvedor front-end com experiência em JavaScript, HTML, CSS, UI/UX, React, API REST e TypeScript. Tenho um forte compromisso com boas práticas de desenvolvimento, criando interfaces modernas e eficientes que garantem uma excelente experiência para o usuário.
